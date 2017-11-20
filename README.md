@@ -1,6 +1,6 @@
-# ordering_method_demo
+# ordering_method_demo for CloudQuant backtest simulator
 
-Demonstrates different ways to place stock orders in CloudQuant
+## Demonstrates different ways to place stock orders in CloudQuant
 
 This repository demonstrates different ways to determine the volumes of shares that are purchased.
 
